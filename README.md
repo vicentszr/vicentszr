@@ -12,7 +12,7 @@ A regulatory intelligence platform for law firms and consultancies. The code is 
 - Includes a RAG chat that answers by citing the exact article with a link to the original, and says so when it can't find the answer.
 - Runs on a cloud server, with daily data quality checks and thousands of automated tests.
 
-![One of the platform's screens (the app is in Spanish, like the regulation it tracks)](captura.png)
+![One of the platform's screens (the app is in Spanish, like the regulation it tracks)](linkedin-captura.png)
 
 ## Public projects
 
